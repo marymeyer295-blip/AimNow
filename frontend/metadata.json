@@ -1,0 +1,6 @@
+{
+  "name": "AIM Entity Brain Admin",
+  "description": "Admin Control Center for AIM Entity Brain service catalogue, scoring rules, and lead management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
